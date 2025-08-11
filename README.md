@@ -167,27 +167,5 @@ docker-compose up -d
 4. Add tests for new functionality
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Support
-
-For support and questions:
-- Create an issue in the GitHub repository
-- Check the troubleshooting section
-- Review the logs for error details
-
-## 🔄 Changelog
-
-### v1.0.1 (Latest)
-- Fixed critical database schema mismatches
-- Resolved SQL injection vulnerabilities
-- Improved error handling and logging
-- Enhanced WebSocket stability
-- Fixed React version compatibility issues
-- Added comprehensive error boundaries
-- Improved API error handling and user feedback
-
-### v1.0.0
-- Initial release with basic functionality
