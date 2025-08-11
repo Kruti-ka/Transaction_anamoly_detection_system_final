@@ -1,0 +1,38 @@
+# Python virtual environment
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask instance folder
+instance/
+
+# Environment variables
+*.env
+
+# React build output
+frontend/node_modules/
+frontend/build/
+
+# Logs
+*.log
+
+# MacOS files
+.DS_Store
+/fraud_detection_env
+# VSCode settings
+.vscode/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Temporary files
+*.tmp
+*.temp
